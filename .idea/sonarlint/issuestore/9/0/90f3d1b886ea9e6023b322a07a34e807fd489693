@@ -1,0 +1,13 @@
+
+\
+java:S21426"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©Ù§š
+\
+java:S21844"FCast one of the operands of this multiplication operation to a "long".( …“
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(“–ış
+E
+java:S1066*"/Merge this if statement with the enclosing one.(ÈĞÚ¨
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ–ë“ûÿÿÿÿ
+B
+java:S1602>",Remove useless curly braces around statement(ÃÉş©

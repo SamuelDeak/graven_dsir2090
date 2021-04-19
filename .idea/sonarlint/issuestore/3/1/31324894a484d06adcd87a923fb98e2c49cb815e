@@ -1,0 +1,17 @@
+
+J
+java:S1128"6Remove this unused import 'tasks.services.Exceptions'.(üºïí
+P
+java:S1128"7Remove this unused import 'tasks.services.MyException'.(›õóüÿÿÿÿ
+F
+java:S1128"2Remove this unused import 'tasks.TasksRepository'.(œ«‰ô
+Q
+java:S1128"8Remove this unused import 'tasks.services.TasksService'.(óƒºŒùÿÿÿÿ
+H
+java:S2110"/"-11" is not a valid value for setting "month".(€ÓÁ•øÿÿÿÿ
+M
+java:S2110"4"-20" is not a valid value for setting "dayOfMonth".(€ÓÁ•øÿÿÿÿ
+H
+java:S1854"5Remove this useless assignment to local variable "t".(Û¨¾Q
+9
+java:S1481"&Remove this unused "t" local variable.(Û¨¾Q

@@ -1,0 +1,17 @@
+
+Z
+java:S1128"=Remove this unused import 'javafx.collections.FXCollections'.(´¶²Æ8­²úĞ/
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8­²úĞ/
+]	java:S107B"<Method has 8 parameters, which is greater than 7 authorized.(ˆ•Ù¶üÿÿÿÿ8­²úĞ/
+v
+java:S1488:"`Immediately return this expression instead of assigning it to the temporary variable "filtered".(’õÍ­
+
+java:S1192_"dDefine a constant instead of duplicating this literal "^(0[0-9]|1[0-9]|2[0-3]):[0-5][0-9]$" 3 times.(ôæ¬×8­²úĞ/
+V
+java:S1128"4Remove this unused import 'javafx.beans.Observable'.(æ ûÿÿÿÿ8­²úĞ/
+t
+java:S14882"^Immediately return this expression instead of assigning it to the temporary variable "result".(é³Çî
+C
+java:S1172X"&Remove these unused method parameters.( °†Ÿ8­²úĞ/
+V	java:S125;"<This block of commented-out lines of code should be removed.(ĞŒÎøÿÿÿÿ
+X	java:S107X"<Method has 8 parameters, which is greater than 7 authorized.( °†Ÿ8­²úĞ/

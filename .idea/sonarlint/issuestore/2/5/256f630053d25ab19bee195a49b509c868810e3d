@@ -1,0 +1,33 @@
+
+T
+java:S1444"4Make this "public static savedTasksFile" field final(æó”­ıÿÿÿÿ8…£âÎ/
+a
+java:S1192"FDefine a constant instead of duplicating this literal "00:00" 3 times.(Øä¿æ8…£âÎ/
+a
+java:S1192"FDefine a constant instead of duplicating this literal "01:00" 3 times.(Øä¿æ8…£âÎ/
+a
+java:S1192"FDefine a constant instead of duplicating this literal "00:10" 3 times.(Ìå¨8…£âÎ/
+f
+java:S1192"FDefine a constant instead of duplicating this literal "02:00" 4 times.(÷Ã¨àşÿÿÿÿ8…£âÎ/
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¦èÄä8…£âÎ/
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.( ˜ÉÎúÿÿÿÿ8…£âÎ/
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(áİ£Š8…£âÎ/
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èØ8…£âÎ/
+_	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(æ™ÖC8…£âÎ/
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(š³û™úÿÿÿÿ8…£âÎ/
+_	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(×‹‹*8…£âÎ/
+z
+java:S1104"ZMake savedTasksFile a static final constant or non-public and provide accessors if needed.(æó”­ıÿÿÿÿ8…£âÎ/
+T
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8…£âÎ/
+U
+java:S1128";Remove this unused import 'org.junit.jupiter.api.Disabled'.(ˆ£æG8…£âÎ/
+P
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8…£âÎ/
+C
+java:S1125"(Remove the literal "true" boolean value.(íÚìè8…£âÎ/
+m	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˜ÉÎúÿÿÿÿ8…£âÎ/
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áİ£Š8…£âÎ/
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èØ8…£âÎ/
+O
+java:S1068"5Remove this unused "newEditController" private field.(˜å¾8…£âÎ/
