@@ -157,13 +157,12 @@ class NewEditControllerTest {
 
     @Tag("valid")
     @Test
-    void createTaskECP9()  {
-        assert(true);
+    void createTaskECP9() throws Exception {
         //EC9: timeStart = "15:23"  (valid)
-        //Task newTask3=tasksService.createTask("alda","15:23","02:00","1",dateStart,dateEnd,false,false);
+        Task newTask3=tasksService.createTask("alda","15:23","02:00","1",dateStart,dateEnd,false,false);
 
-        //assert(newTask3!=null);
-        //assert(newTask3.getStartTime().toString().equals("Mon Dec 20 15:23:00 EET 2021"));
+        assert(newTask3!=null);
+        assert(newTask3.getStartTime().toString().equals("Mon Dec 20 15:23:00 EET 2021"));
     }
 
     @Tag("valid")
