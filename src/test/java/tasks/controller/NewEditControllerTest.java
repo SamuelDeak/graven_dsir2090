@@ -294,6 +294,7 @@ class NewEditControllerTest {
         assert(newTask2.getTitle().equals("al"));
     }
 
+    @RepeatedTest(3)
     @Tag("valid")
     @Test
     void createTaskBVA10() throws Exception {
@@ -305,7 +306,6 @@ class NewEditControllerTest {
         assert(newTask2.getTitle().equals("alb"));
     }
 
-    @RepeatedTest(3)
     @Tag("valid")
     void createTaskBVA11() throws Exception {
         //EC11: title size=60, title = "aaaaaaaaaabbbbbbbbbbaaaaaaaaaabbbbbbbbbbaaaaaaaaaabbbbbbbbbb"   (valid)
