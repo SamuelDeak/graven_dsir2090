@@ -1,15 +1,21 @@
 
-Q
-java:S1444"4Make this "public static savedTasksFile" field final(¼Çü¦8Á‚²êş.
-T
-java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8Á‚²êş.
-X	java:S125 "<This block of commented-out lines of code should be removed.(ÿöá8Á‚²êş.
-X	java:S125-"<This block of commented-out lines of code should be removed.(€â³Ö8åøÏ…/
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù‰ï…8Á‚²êş.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğÕÈ€8Á‚²êş.
+X	java:S1253"<This block of commented-out lines of code should be removed.(€â³Ö8åøÏ…/
 I
-java:S1602<",Remove useless curly braces around statement(çöÔˆ8Á‚²êş.
+java:S1602B",Remove useless curly braces around statement(çöÔˆ8Á‚²êş.
+Q
+java:S1444!"4Make this "public static savedTasksFile" field final(¼Çü¦8Á‚²êş.
 z
-java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8Á‚²êş.
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8Á‚²êş.
+T
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8Á‚²êş.
 w
-java:S1104"ZMake savedTasksFile a static final constant or non-public and provide accessors if needed.(¼Çü¦8Á‚²êş.
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù‰ï…8Á‚²êş.
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğÕÈ€8Á‚²êş.
+java:S1104!"ZMake savedTasksFile a static final constant or non-public and provide accessors if needed.(¼Çü¦8Á‚²êş.
+O
+java:S1128"-Remove this unused import 'tasks.model.Task'.(ğˆí§ÿÿÿÿÿ8†£âÎ/
+`
+java:S1128">Remove this unused import 'javafx.collections.ObservableList'.(ÄÜ€éüÿÿÿÿ8†£âÎ/
+x
+java:S1450&"VRemove the "service" field and declare it as a local variable in the relevant methods.(òÊËåıÿÿÿÿ8†£âÎ/
+]	java:S125&"<This block of commented-out lines of code should be removed.(òÊËåıÿÿÿÿ8†£âÎ/

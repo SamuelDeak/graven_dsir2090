@@ -35,3 +35,13 @@ i
 ,src/main/java/tasks/services/Exceptions.java,2\7\2714f7907085339b4d8b02b81817b53c4bbc6eb6
 b
 2src/test/java/tasks/model/TasksOperationsTest.java,2\5\256f630053d25ab19bee195a49b509c868810e3d
+W
+'src/test/java/tasks/model/TaskTest.java,3\1\31324894a484d06adcd87a923fb98e2c49cb815e
+\
+,src/test/java/tasks/TasksRepositoryTest.java,f\0\f033a98e2f5e78dd73bafe2e0d8d1369f8090102
+b
+2src/test/java/tasks/services/TasksServiceTest.java,1\e\1ed2e4afe6f0e30a24669299239d591463d36916
+b
+2src/test/java/tasks/IntegrationRepositoryTest.java,f\6\f665b6e620e586cd631ffa3ad2148d7c9196c593
+\
+,src/test/java/tasks/IntegrationTaskTest.java,3\c\3c10b711d7ca900601c91c007ace57dae799b6f5
