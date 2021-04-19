@@ -307,6 +307,7 @@ class NewEditControllerTest {
     }
 
     @Tag("valid")
+    @Test
     void createTaskBVA11() throws Exception {
         //EC11: title size=60, title = "aaaaaaaaaabbbbbbbbbbaaaaaaaaaabbbbbbbbbbaaaaaaaaaabbbbbbbbbb"   (valid)
         Task newTask4=tasksService.createTask("aaaaaaaaaabbbbbbbbbbaaaaaaaaaabbbbbbbbbbaaaaaaaaaabbbbbbbbbb","08:00","02:00","1",dateStart,dateEnd,false,false);
