@@ -1,0 +1,302 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/all.min.css">
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/v4-shims.min.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" type="text/css" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.css">
+<link rel="stylesheet" type="text/css" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.js"></script>
+<!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.19/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.19/datatables.min.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.19/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.19/datatables.bootstrap4.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">
+                <span class="projecttitle">Demo Project using Serenity and JUnit</span>
+                <span class="projectsubtitle"></span>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="dd6215c59a45ec1eff1765d6665874a03394b1dcb6636e9625a748aaacb561c2.html">Orar Options List View</a></span>
+                > <span class="truncate-60"><a
+                    href="d3801cdb6b0512e5da2a298000fee7fe64e8b8dc9a9ff02c1820dd37a288944a.html">Orar multiple view options </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+        <li >
+            <a href="2a4631d87648e59c428d4cf0e9247f9d286e4679f436ca2ce872e931eb4dfd58.html"><i class="fa fa-comments-o"></i> Stories</a>
+        </li>
+        <li >
+            <a href="7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html"><i class="fa fa-comments-o"></i> Capabilities</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 09-05-2021 21:35</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Orar Options List View </span>
+                                    <span class="badge tag-badge" style="">Story</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></a></span>
+                            <span class="test-case-title">
+                                <span class="error-color">Orar multiple view options
+                                    <span class="related-issue-title">(#UBB-Orar)</span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+    <div class="story-title">
+        <h3>Scenario:</h3>
+        <div class="scenario">Is the home page<br>Click orar link<br>Should see orar option: Orarul studentilor (format grafic), true<br>Click orar option from view table: Orarul studentilor (format grafic)<br>Should see page title: Orarul studentilor (format grafic)</div>
+    </div>
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">Assertion error: Page title is invalid expected:(Orar[ul studentilor] (format grafic)) but was:(Orar[ studenti] (format grafic))</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-overall">
+            <div class="card">
+                <div class="card-header">
+                    <h4>java.lang.AssertionError </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>org.example.steps.serenity.StudentUser.should_see_page_title(StudentUser.java:40)<br />org.example.features.search.OrarOptionsListView.orar_multiple_view_options(OrarOptionsListView.java:39)<br /></pre>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                <div class="panel-body">
+                    <a href="pagesource3915640376973598854.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="4e66911a0af8afe70e767ced1ba96dc3fe7d8985a357219f249a3faed3f18cee.png" title=" Orar multiple view options " width="929"/>
+                <img src="4e66911a0af8afe70e767ced1ba96dc3fe7d8985a357219f249a3faed3f18cee.png" title=" Is the home page" width="929"/>
+                <img src="f259b42cc1a99fc06bc32bb309a17f3b9fce3db35ad3b1fb923eef1a14ca8b07.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Orarul studentilor (format grafic), true" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Orarul studentilor (format grafic), true (completed)" width="929"/>
+                <img src="2efc349a6aa1363575154f7457850c81b301e65b20155fe2c19453f553b0fea7.png" title=" Click orar option from view table: Orarul studentilor (format grafic)" width="929"/>
+                <img src="2efc349a6aa1363575154f7457850c81b301e65b20155fe2c19453f553b0fea7.png" title=" Should see page title: Orarul studentilor (format grafic)" width="929"/>
+                <img src="7bb31d826e92c47b9e5e6ca3fff43c4dbe4ad0e6c2979a525f23336153a1caff.png" title=" Orar multiple view options " width="929"/>
+                <img src="7bb31d826e92c47b9e5e6ca3fff43c4dbe4ad0e6c2979a525f23336153a1caff.png" title=" Is the home page" width="929"/>
+                <img src="33aac48b235bd71702c31cd4b67b3590a28e8dea1e3eaa67fbe88dbc1af10895.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Orarul studentilor (format tabelar), true" width="929"/>
+                <img src="554d74e407c6ab5d28c87269781947cd3b38369b44810d899942e9e27c3f6900.png" title=" Click orar option from view table: Orarul studentilor (format tabelar)" width="929"/>
+                <img src="554d74e407c6ab5d28c87269781947cd3b38369b44810d899942e9e27c3f6900.png" title=" Should see page title: Orarul studentilor (format tabelar)" width="929"/>
+                <img src="4e66911a0af8afe70e767ced1ba96dc3fe7d8985a357219f249a3faed3f18cee.png" title=" Orar multiple view options " width="929"/>
+                <img src="4e66911a0af8afe70e767ced1ba96dc3fe7d8985a357219f249a3faed3f18cee.png" title=" Is the home page" width="929"/>
+                <img src="f259b42cc1a99fc06bc32bb309a17f3b9fce3db35ad3b1fb923eef1a14ca8b07.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Orarul cadrelor didactice, true" width="929"/>
+                <img src="b227733e7906f79d248a306efe230bcdb2dab1ee02c0606e094e5ab46dfa3876.png" title=" Click orar option from view table: Orarul cadrelor didactice" width="929"/>
+                <img src="27344d465bbd7a490e0522bb4fe798aa9f50d0ddc94c216ce39c37b27170a9f4.png" title=" Should see page title: Orarul cadrelor didactice" width="929"/>
+                <img src="c11b8d63e4f6713c862380b65e830882f6ed2d183999cec28833291e21f9d5c3.png" title=" Orar multiple view options " width="929"/>
+                <img src="c11b8d63e4f6713c862380b65e830882f6ed2d183999cec28833291e21f9d5c3.png" title=" Is the home page" width="929"/>
+                <img src="f259b42cc1a99fc06bc32bb309a17f3b9fce3db35ad3b1fb923eef1a14ca8b07.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Orarul disciplinelor, true" width="929"/>
+                <img src="70a6d5bb76aaa5d118186a7bf62468422890ca302575a3d6cf7d331ea4767616.png" title=" Click orar option from view table: Orarul disciplinelor" width="929"/>
+                <img src="70a6d5bb76aaa5d118186a7bf62468422890ca302575a3d6cf7d331ea4767616.png" title=" Should see page title: Orarul disciplinelor" width="929"/>
+                <img src="56ca061ccc2702e2cbc8fac2f1c81bbe5f7b6a3c1f46415752e7a1e7c487e7e0.png" title=" Orar multiple view options " width="929"/>
+                <img src="56ca061ccc2702e2cbc8fac2f1c81bbe5f7b6a3c1f46415752e7a1e7c487e7e0.png" title=" Is the home page" width="929"/>
+                <img src="f259b42cc1a99fc06bc32bb309a17f3b9fce3db35ad3b1fb923eef1a14ca8b07.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Orarul salilor, true" width="929"/>
+                <img src="34747b46a9af5afd5526b7463304e6fce8f34b8f8eb608153d8f9ca7e8f830b0.png" title=" Click orar option from view table: Orarul salilor" width="929"/>
+                <img src="34747b46a9af5afd5526b7463304e6fce8f34b8f8eb608153d8f9ca7e8f830b0.png" title=" Should see page title: Orarul salilor" width="929"/>
+                <img src="f1eb71b18b4281622e03fb239e93ad446b5033306b9012dc8f6eddd19cfe2260.png" title=" Orar multiple view options " width="929"/>
+                <img src="f1eb71b18b4281622e03fb239e93ad446b5033306b9012dc8f6eddd19cfe2260.png" title=" Is the home page" width="929"/>
+                <img src="f259b42cc1a99fc06bc32bb309a17f3b9fce3db35ad3b1fb923eef1a14ca8b07.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Legenda salilor, true" width="929"/>
+                <img src="8310743bdcc1770323cd4b0f57fe992b73ffb183e1fcaa5a9fb64ac1bd192e17.png" title=" Click orar option from view table: Legenda salilor" width="929"/>
+                <img src="8310743bdcc1770323cd4b0f57fe992b73ffb183e1fcaa5a9fb64ac1bd192e17.png" title=" Should see page title: Legenda salilor" width="929"/>
+                <img src="81c9593bd7026e193209279de3d85a39856b6ee9487e916b81b594cd7a0d0971.png" title=" Orar multiple view options " width="929"/>
+                <img src="81c9593bd7026e193209279de3d85a39856b6ee9487e916b81b594cd7a0d0971.png" title=" Is the home page" width="929"/>
+                <img src="f259b42cc1a99fc06bc32bb309a17f3b9fce3db35ad3b1fb923eef1a14ca8b07.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Ocuparea salilor, true" width="929"/>
+                <img src="bf3fe33a88e701a9f49468cd75ad73f55e31c3700260ae69dbaf71c1bdc77422.png" title=" Click orar option from view table: Ocuparea salilor" width="929"/>
+                <img src="bf3fe33a88e701a9f49468cd75ad73f55e31c3700260ae69dbaf71c1bdc77422.png" title=" Should see page title: Ocuparea salilor" width="929"/>
+                <img src="4e66911a0af8afe70e767ced1ba96dc3fe7d8985a357219f249a3faed3f18cee.png" title=" Orar multiple view options " width="929"/>
+                <img src="4e66911a0af8afe70e767ced1ba96dc3fe7d8985a357219f249a3faed3f18cee.png" title=" Is the home page" width="929"/>
+                <img src="f259b42cc1a99fc06bc32bb309a17f3b9fce3db35ad3b1fb923eef1a14ca8b07.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Random Words, false" width="929"/>
+                <img src="58c75f3486071c7726efea9c1af24ce88545c1d1adc37b5cbf48e4900d0f7128.png" title=" Orar multiple view options " width="929"/>
+                <img src="58c75f3486071c7726efea9c1af24ce88545c1d1adc37b5cbf48e4900d0f7128.png" title=" Is the home page" width="929"/>
+                <img src="f259b42cc1a99fc06bc32bb309a17f3b9fce3db35ad3b1fb923eef1a14ca8b07.png" title=" Click orar link" width="929"/>
+                <img src="a1451cfa04276bbe98cf09bb91c564f1f8dd6db88d5e79b1c7547918f96cc221.png" title=" Should see orar option: Unexpected Words, false: <span class='error-color'>ERROR</span>" width="929"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 2.0.81</span>
+</div>
+</body>
+</html>

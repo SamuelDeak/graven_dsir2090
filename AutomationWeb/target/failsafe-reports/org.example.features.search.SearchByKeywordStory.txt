@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: org.example.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 4, Skipped: 2, Time elapsed: 34.776 s <<< FAILURE! - in org.example.features.search.SearchByKeywordStory
+searching_by_keyword_banana_should_display_the_corresponding_article[0](org.example.features.search.SearchByKeywordStory)  Time elapsed: 9.115 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "String.coder()" because "str" is null
+	at org.example.features.search.SearchByKeywordStory.searching_by_keyword_banana_should_display_the_corresponding_article(SearchByKeywordStory.java:44)
+
+searching_by_keyword_apple_should_display_the_corresponding_article[0](org.example.features.search.SearchByKeywordStory)  Time elapsed: 5.19 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "String.coder()" because "str" is null
+	at org.example.features.search.SearchByKeywordStory.searching_by_keyword_apple_should_display_the_corresponding_article(SearchByKeywordStory.java:37)
+
+searching_by_keyword_banana_should_display_the_corresponding_article[1](org.example.features.search.SearchByKeywordStory)  Time elapsed: 7.594 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "String.coder()" because "str" is null
+	at org.example.features.search.SearchByKeywordStory.searching_by_keyword_banana_should_display_the_corresponding_article(SearchByKeywordStory.java:44)
+
+searching_by_keyword_apple_should_display_the_corresponding_article[1](org.example.features.search.SearchByKeywordStory)  Time elapsed: 3.672 s  <<< ERROR!
+java.lang.NullPointerException
+

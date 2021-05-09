@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="4" name="org.example.features.search.OrarOptionsListView" skipped="0" tests="9" time="58.43" timestamp="2021-05-09 09:35:07"><testcase classname="org.example.features.search.OrarOptionsListView" name="Orar multiple view options"><error message="Page title is invalid expected:&lt;Orar[ul studentilor] (format grafic)&gt; but was:&lt;Orar[ studenti] (format grafic)&gt;" type="java.lang.AssertionError">Page title is invalid expected:&lt;Orar[ul studentilor] (format grafic)&gt; but was:&lt;Orar[ studenti] (format grafic)&gt;</error><system-err>Page title is invalid expected:&lt;Orar[ul studentilor] (format grafic)&gt; but was:&lt;Orar[ studenti] (format grafic)&gt;&#13;
+org.example.steps.serenity.StudentUser.should_see_page_title(StudentUser.java:40)&#13;
+org.example.features.search.OrarOptionsListView.orar_multiple_view_options(OrarOptionsListView.java:39)&#13;
+</system-err></testcase></testsuite>

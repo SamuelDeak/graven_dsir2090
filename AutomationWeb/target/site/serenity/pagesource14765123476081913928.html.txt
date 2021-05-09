@@ -1,0 +1,63 @@
+<html><head>
+<title>Orar Facultatea de Matematica si Informatica</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+</head><body><center>
+<h1>Orar Facultatea de Matematica si Informatica</h1>
+<h1>Anul 2020-2021, Semestrul II</h1>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody><tr align="center">
+<td><a href="grafic/index.html"><font size="+1">Orarul studentilor (format grafic)</font></a></td>
+</tr>
+<tr align="center">
+<td><a href="tabelar/index.html"><font size="+1">Orarul studentilor (format tabelar)</font></a></td>
+</tr>
+<tr align="center">
+<td><a href="cadre/index.html"><font size="+1">Orarul cadrelor didactice</font></a></td>
+</tr>
+<tr align="center">
+<td><a href="disc/index.html"><font size="+1">Orarul disciplinelor</font></a></td>
+</tr>
+<tr align="center">
+<td><a href="sali/index.html"><font size="+1">Orarul salilor</font></a></td>
+</tr>
+<tr align="center">
+<td><a href="sali/legenda.html"><font size="+1">Legenda salilor</font></a></td>
+</tr>
+<tr align="center">
+<td><a href="sali/ocupare.html"><font size="+1">Ocuparea salilor</font></a></td>
+</tr>
+</tbody></table>
+</center>
+<br>
+
+<div style="width: 600px; margin: 0 auto">
+Detalii despre modalitatea concretă de desfășurare online a activităților
+didactice sunt disponibile în paginile cadrelor didactice. Legăturile spre
+paginile cadrelor didactice sunt disponibile în paginile departamentelor:
+<ul>
+<li><a href="https://www.cs.ubbcluj.ro/despre-facultate/structura/departamentul-de-matematica/" target="_blank">Departamentul de Matematică</a></li>
+<li><a href="https://www.cs.ubbcluj.ro/despre-facultate/structura/departamentul-de-informatica/" target="_blank">Departamentul de Informatică</a></li>
+<li><a href="https://www.cs.ubbcluj.ro/departamentul-de-matematica-si-informatica-al-liniei-maghiare/" target="_blank">Departamentul de Matematică şi Informatică al Liniei Maghiare</a>.
+Studenții specializărilor în limba maghiară sunt rugați să consulte și
+platforma <a href="https://canvas2.cs.ubbcluj.ro/login/canvas" target="_blank">CANVAS</a>.</li>
+</ul>
+
+Studentii specializarilor in limba germana sunt rugati sa consulte si <a href="https://www.cs.ubbcluj.ro/lehrkrafte/" target="_blank">pagina
+cadrelor didactice ce predau la linia germana</a>.
+<br><br>
+Pentru informații despre modul de desfășurare a unor
+ore de seminar și laborator consultați inclusiv
+pagina titularului de curs (cadrul didactic care
+ține cursul).
+<br><br>
+
+<p style="background-color: #8FCEF0;">
+Codul pentru inregistrarea in Team-ul disciplinei Fundamentele Pedagogiei la anul 1, sectiile Matematica,
+Mate-Info romana, Mate-Info engleza, Informatica romana, Informatica engleza este: pyj6br1.
+</p>
+<br><br>
+
+</div>
+
+</body></html>

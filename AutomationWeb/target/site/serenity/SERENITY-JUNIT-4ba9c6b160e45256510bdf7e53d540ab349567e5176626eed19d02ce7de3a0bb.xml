@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.example.features.search.SearchByKeywordStory" skipped="0" tests="1" time="3.66" timestamp="2021-05-09 07:12:45"><testcase classname="org.example.features.search.SearchByKeywordStory" name="Searching by keyword apple should display the corresponding article"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+org.example.steps.serenity.EndUserSteps.is_the_home_page(EndUserSteps.java:32)&#13;
+org.example.features.search.SearchByKeywordStory.searching_by_keyword_apple_should_display_the_corresponding_article(SearchByKeywordStory.java:33)&#13;
+</system-err></testcase></testsuite>

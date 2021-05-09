@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.example.features.search.ChangeLanguageStory" skipped="0" tests="1" time="11.2" timestamp="2021-05-09 10:21:09"><testcase classname="org.example.features.search.ChangeLanguageStory" name="Romanian language"><error message="Timed out after 2 seconds. Element not available&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-IONUT', ip: '192.168.100.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotVisibleException">Timed out after 2 seconds. Element not available
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-IONUT', ip: '192.168.100.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: unknown</error><system-err>Timed out after 2 seconds. Element not available
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-IONUT', ip: '192.168.100.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15'
+Driver info: driver.version: unknown&#13;
+org.example.pages.UBBHomePage.getPageTitle(UBBHomePage.java:58)&#13;
+org.example.steps.serenity.ChangeLanguageSteps.page_title_is_in_english_language(ChangeLanguageSteps.java:43)&#13;
+org.example.features.search.ChangeLanguageStory.romanian_language(ChangeLanguageStory.java:33)&#13;
+</system-err></testcase></testsuite>

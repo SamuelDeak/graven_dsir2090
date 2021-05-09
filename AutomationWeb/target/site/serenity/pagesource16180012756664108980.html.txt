@@ -1,0 +1,345 @@
+<html><head>
+<title>Orar cadre didactice</title>
+<link href="../style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2">
+</head><body><center>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody><tr align="center">
+<th>Cadru didactic</th>
+<th>Cadru didactic</th>
+<th>Cadru didactic</th>
+<th>Cadru didactic</th>
+</tr>
+<tr align="center">
+<td><a href="agoc.html">Prof. AGRATINI Octavian</a></td>
+<td><a href="goan.html">Prof. ANDREICA Anca</a></td>
+<td><a href="ando.html">Prof. ANDRICA Dorin</a></td>
+<td><a href="bofl.html">Prof. BOIAN Florian</a></td>
+</tr>
+<tr align="center">
+<td><a href="brsi.html">Prof. BREAZ Simion</a></td>
+<td><a href="bute.html">Prof. BULBOACA Teodor</a></td>
+<td><a href="chva.html">Prof. CHIS Vasile</a></td>
+<td><a href="crse.html">Prof. CRIVEI Septimiu</a></td>
+</tr>
+<tr align="center">
+<td><a href="csle.html">Prof. CSATO Lehel</a></td>
+<td><a href="sega.html">Prof. CZIBULA Gabriela</a></td>
+<td><a href="czis.html">Prof. CZIBULA Istvan</a></td>
+<td><a href="dila.html">Prof. DIOSAN Laura</a></td>
+</tr>
+<tr align="center">
+<td><a href="heho.html">Prof. HEDESIU Horia</a></td>
+<td><a href="hozo.html">Prof. HORVATH Zoltan</a></td>
+<td><a href="komi.html">Prof. KOHR Mirela</a></td>
+<td><a href="maan.html">Prof. MARCUS Andrei</a></td>
+</tr>
+<tr align="center">
+<td><a href="pead.html">Prof. PETRUSEL Adrian</a></td>
+<td><a href="poho.html">Prof. POP F. Horia</a></td>
+<td><a href="poni.html">Prof. POPOVICI Nicolae</a></td>
+<td><a href="prra.html">Prof. PRECUP Radu</a></td>
+</tr>
+<tr align="center">
+<td><a href="vacs.html">Prof. VARGA Csaba</a></td>
+<td><a href="ansz.html">Conf. ANDRAS Szilard</a></td>
+<td><a href="drsa.html">Conf. AVRAM Sanda</a></td>
+<td><a href="blcr.html">Conf. BLAGA Cristina</a></td>
+</tr>
+<tr align="center">
+<td><a href="blpa.html">Conf. BLAGA Paul</a></td>
+<td><a href="boza.html">Conf. BODO Zalan</a></td>
+<td><a href="bora.html">Conf. BOIAN Rares</a></td>
+<td><a href="brbr.html">Conf. BRECKNER Brigitte</a></td>
+</tr>
+<tr align="center">
+<td><a href="buad.html">Conf. BUICA Adriana</a></td>
+<td><a href="cate.html">Conf. CATINAS Teodora</a></td>
+<td><a href="chda.html">Conf. CHIOREAN Dan</a></td>
+<td><a href="chio.html">Conf. CHIOREAN Ioana</a></td>
+</tr>
+<tr align="center">
+<td><a href="chca1.html">Conf. CHIRA Camelia</a></td>
+<td><a href="mogr1.html">Conf. COJOCAR Grigoreta</a></td>
+<td><a href="crfl.html">Conf. CRACIUN Florin</a></td>
+<td><a href="dase.html">Conf. DARABANT Sergiu</a></td>
+</tr>
+<tr align="center">
+<td><a href="dazs.html">Conf. DARVAY Zsolt</a></td>
+<td><a href="fizo.html">Conf. FINTA Zoltan</a></td>
+<td><a href="grte.html">Conf. GROSAN Teodor</a></td>
+<td><a href="lian.html">Conf. LIBAL Andras</a></td>
+</tr>
+<tr align="center">
+<td><a href="misa.html">Conf. MICULA Sanda</a></td>
+<td><a href="mosi.html">Conf. MOTOGNA Simona</a></td>
+<td><a href="nivi.html">Conf. NICULESCU Virginia</a></td>
+<td><a href="peco.html">Conf. PELEA Cosmin</a></td>
+</tr>
+<tr align="center">
+<td><a href="pico.html">Conf. PINTEA Cornel</a></td>
+<td><a href="roju.html">Conf. ROBU Judit</a></td>
+<td><a href="rona.html">Conf. ROSCA Natalia</a></td>
+<td><a href="roag.html">Conf. ROTH Agoston Istvan</a></td>
+</tr>
+<tr align="center">
+<td><a href="sach.html">Conf. SACAREA Christian</a></td>
+<td><a href="sema.html">Conf. SERBAN Marcel</a></td>
+<td><a href="soan.html">Conf. SOOS Anna</a></td>
+<td><a href="sumi.html">Conf. SUCIU Mihai</a></td>
+</tr>
+<tr align="center">
+<td><a href="szcs.html">Conf. SZANTO Csaba-Lehel</a></td>
+<td><a href="szfe.html">Conf. SZENKOVITS Ferenc</a></td>
+<td><a href="trra.html">Conf. TRAMBITAS Radu</a></td>
+<td><a href="trti.html">Conf. TRIF Tiberiu</a></td>
+</tr>
+<tr align="center">
+<td><a href="vadu.html">Conf. VALCAN Dumitru</a></td>
+<td><a href="vavi.html">Conf. VARGA Viorica</a></td>
+<td><a href="vean.html">Conf. VESCAN Andreea</a></td>
+<td><a href="anda.html">Lect. Andronache Daniel</a></td>
+</tr>
+<tr align="center">
+<td><a href="bala.html">Lect. BARABAS Laszlo</a></td>
+<td><a href="beiu.html">Lect. BENTA Iulian</a></td>
+<td><a href="best.html">Lect. BERINDE Stefan</a></td>
+<td><a href="bino.html">Lect. BIRTA-SZEKELY Noemi</a></td>
+</tr>
+<tr align="center">
+<td><a href="bodi.html">Lect. BORZA Diana</a></td>
+<td><a href="bomo.html">Lect. BOTA Monica Felicia</a></td>
+<td><a href="buda.html">Lect. BUFNEA Darius</a></td>
+<td><a href="chca.html">Lect. CHISALITA-CRETU Camelia</a></td>
+</tr>
+<tr align="center">
+<td><a href="civa.html">Lect. CIOBAN Vasile</a></td>
+<td><a href="coda.html">Lect. COJOCAR Dan</a></td>
+<td><a href="coad.html">Lect. COROIU Adriana</a></td>
+<td><a href="trdi.html">Lect. CRISTEA Diana</a></td>
+</tr>
+<tr align="center">
+<td><a href="moan.html">Lect. DOKA MOLNAR Andrea</a></td>
+<td><a href="drra.html">Lect. DRAGOS Radu</a></td>
+<td><a href="gara.html">Lect. GACEANU Radu</a></td>
+<td><a href="gran.html">Lect. GRAD Anca</a></td>
+</tr>
+<tr align="center">
+<td><a href="grho.html">Lect. GREBLA Horea</a></td>
+<td><a href="taad.html">Lect. GURAN  Adriana</a></td>
+<td><a href="iami.html">Lect. IANCU Mihai</a></td>
+<td><a href="dave.html">Lect. ILEA Veronica</a></td>
+</tr>
+<tr align="center">
+<td><a href="ilma.html">Lect. ILLYES Magda</a></td>
+<td><a href="iocl.html">Lect. IONESCU Clara</a></td>
+<td><a href="iovl.html">Lect. IONESCU Vlad</a></td>
+<td><a href="kosa.html">Lect. KOLUMBAN Sandor</a></td>
+</tr>
+<tr align="center">
+<td><a href="lata.html">Lect. LASZLO Tamas</a></td>
+<td><a href="laio.html">Lect. LAZAR Ioan</a></td>
+<td><a href="luan.html">Lect. LUKACS Andor</a></td>
+<td><a href="lumi.html">Lect. LUPEA Mihaiela</a></td>
+</tr>
+<tr align="center">
+<td><a href="luda.html">Lect. LUPSA Dana</a></td>
+<td><a href="lura.html">Lect. LUPSA Radu</a></td>
+<td><a href="maio.html">Lect. MAGDAS Ioana</a></td>
+<td><a href="meil.html">Lect. MEZEI Ildiko</a></td>
+</tr>
+<tr align="center">
+<td><a href="mitu.html">Lect. MIHOC Tudor</a></td>
+<td><a href="mida.html">Lect. MIRCEA Ioan Gabriel</a></td>
+<td><a href="mogh.html">Lect. MODOI Gheorghe</a></td>
+<td><a href="moar.html">Lect. MOLNAR Arthur</a></td>
+</tr>
+<tr align="center">
+<td><a href="mobo.html">Lect. MOLNAR Botond</a></td>
+<td><a href="niad.html">Lect. NICOLAE Adriana</a></td>
+<td><a href="mazs.html">Lect. ONET-MARIAN Zsuzsanna</a></td>
+<td><a href="ozju.html">Lect. OZSVATH Judith</a></td>
+</tr>
+<tr align="center">
+<td><a href="pacs.html">Lect. PATCAS Csaba</a></td>
+<td><a href="civl.html">Lect. PETRASCU Vladiela</a></td>
+<td><a href="mian.html">Lect. POP Andreea</a></td>
+<td><a href="rula.html">Lect. RUFF Laura</a></td>
+</tr>
+<tr align="center">
+<td><a href="ruca.html">Lect. RUSU Catalin</a></td>
+<td><a href="seca.html">Lect. SERBAN Camelia</a></td>
+<td><a href="siiu.html">Lect. SIMION Iulian</a></td>
+<td><a href="sika.html">Lect. SIMON Karoly</a></td>
+</tr>
+<tr align="center">
+<td><a href="soil.html">Lect. SOMOGYI Ildiko</a></td>
+<td><a href="stad.html">Lect. STERCA Adrian</a></td>
+<td><a href="suda.html">Lect. SUCIU Dan Mircea</a></td>
+<td><a href="sucs.html">Lect. SULYOK Csaba</a></td>
+</tr>
+<tr align="center">
+<td><a href="susa.html">Lect. SURDU Sabina</a></td>
+<td><a href="szis.html">Lect. SZOLLOSI Istvan</a></td>
+<td><a href="trga.html">Lect. TRAMBITAS Gabriela</a></td>
+<td><a href="tuar.html">Lect. TUNYAGI Arthur</a></td>
+</tr>
+<tr align="center">
+<td><a href="TurG.html">Lect. TURCAS George</a></td>
+<td><a href="vada.html">Lect. VACARETU Daniel</a></td>
+<td><a href="vaal.html">Lect. VANCEA Alexandru</a></td>
+<td><a href="vale.html">Lect. VARGA Levente</a></td>
+</tr>
+<tr align="center">
+<td><a href="viad.html">Lect. VIOREL Adrian</a></td>
+<td><a href="alfl.html">Asist. Albisoru Florin</a></td>
+<td><a href="anca.html">Asist. ANDOR Camelia</a></td>
+<td><a href="baio.html">Asist. BADARINZA Ioan</a></td>
+</tr>
+<tr align="center">
+<td><a href="bofl1.html">Asist. BOTA Florentin</a></td>
+<td><a href="caal.html">Asist. CALIN Alina</a></td>
+<td><a href="kasa.html">Asist. KAJANTO Sandor</a></td>
+<td><a href="laad.html">Asist. LAZAR Adriana</a></td>
+</tr>
+<tr align="center">
+<td><a href="lobe.html">Asist. LORINCZ Beata</a></td>
+<td><a href="loal.html">Asist. Losonti Alexandra</a></td>
+<td><a href="meag.html">Asist. MESTER Agnes</a></td>
+<td><a href="mitu1.html">Asist. MICU Tudor</a></td>
+</tr>
+<tr align="center">
+<td><a href="midi.html">Asist. MIHOLCA Diana</a></td>
+<td><a href="mubo.html">Asist. MURSA Bogdan</a></td>
+<td><a href="palo.html">Asist. PARAJDI LORAND</a></td>
+<td><a href="pasz.html">Asist. PAVEL Szabolcs</a></td>
+</tr>
+<tr align="center">
+<td><a href="paso.html">Asist. PAVLENKO Sonia</a></td>
+<td><a href="pema1.html">Asist. PETRESCU Manuela</a></td>
+<td><a href="poem.html">Asist. POP Emilia</a></td>
+<td><a href="sacs.html">Asist. SANDOR Csanad</a></td>
+</tr>
+<tr align="center">
+<td><a href="hadi.html">Asist. SOTROPA Diana</a></td>
+<td><a href="szzs.html">Asist. SZILAGYI Zsolt</a></td>
+<td><a href="vaor.html">Asist. VAS Orsolya</a></td>
+<td><a href="vege.html">Asist. VEKOV Geza</a></td>
+</tr>
+<tr align="center">
+<td><a href="alal.html">Drd. ALBU Alexandra</a></td>
+<td><a href="baad.html">Drd. BAJCSI Adel</a></td>
+<td><a href="bofl2.html">Drd. BORODI Flavia</a></td>
+<td><a href="boda.html">Drd. BOTA Daniel</a></td>
+</tr>
+<tr align="center">
+<td><a href="bran.html">Drd. BRICIU Anamaria</a></td>
+<td><a href="chiu.html">Drd. CHIRU Iulia</a></td>
+<td><a href="ghra.html">Drd. GHEORGHICA Radu</a></td>
+<td><a href="gred.html">Drd. GRIGORICIUC Eduard</a></td>
+</tr>
+<tr align="center">
+<td><a href="iltu.html">Drd. ILENI Tudor</a></td>
+<td><a href="kuma.html">Drd. KUTI KRESZACS Matyas</a></td>
+<td><a href="lise.html">Drd. LIMBOI Sergiu</a></td>
+<td><a href="loab.html">Drd. LORINCZI Abel</a></td>
+</tr>
+<tr align="center">
+<td><a href="LuEu.html">Drd. Luca Eugenia</a></td>
+<td><a href="dima.html">Drd. MAIER Mariana</a></td>
+<td><a href="meat.html">Drd. MESTER Attila</a></td>
+<td><a href="mian1.html">Drd. MIHAI Andrei</a></td>
+</tr>
+<tr align="center">
+<td><a href="mina.html">Drd. MINUTA A</a></td>
+<td><a href="moma.html">Drd. MOGA Madalina</a></td>
+<td><a href="modu.html">Drd. MOROZ-DUBENCO Cristiana</a></td>
+<td><a href="muho.html">Drd. MURESAN Horea</a></td>
+</tr>
+<tr align="center">
+<td><a href="nebo.html">Drd. Nemes Borbala</a></td>
+<td><a href="OrAx.html">Drd. Orzan Alexandru</a></td>
+<td><a href="paio.html">Drd. Papuc Ioan</a></td>
+<td><a href="siio.html">Drd. SIMA Ioan</a></td>
+</tr>
+<tr align="center">
+<td><a href="zear.html">Drd. SZEDERJESI-DRAGOMIR Arnold</a></td>
+<td><a href="tida.html">Drd. TICLE Daniel</a></td>
+<td><a href="tipa.html">Drd. TIRBAN Paul</a></td>
+<td><a href="toio.html">Drd. TODERICIU Ioana</a></td>
+</tr>
+<tr align="center">
+<td><a href="tovl1.html">Drd. TOMESCU Vlad</a></td>
+<td><a href="trur.html">Drd. TRUSCA R</a></td>
+<td><a href="zecg.html">Drd. Zecua G</a></td>
+<td><a href="zsim.html">Drd. ZSIGMOND Imre</a></td>
+</tr>
+<tr align="center">
+<td><a href="afat.html">C.d.asociat AFRA Attila</a></td>
+<td><a href="bach.html">C.d.asociat BARTELT Christian</a></td>
+<td><a href="blan.html">C.d.asociat BLAGA Andreea</a></td>
+<td><a href="bora2.html">C.d.asociat BORZA Razvan</a></td>
+</tr>
+<tr align="center">
+<td><a href="brcr.html">C.d.asociat BRAD Cristian</a></td>
+<td><a href="buth.html">C.d.asociat BUI THU Hang</a></td>
+<td><a href="cara.html">C.d.asociat CARAUSU Catrinel</a></td>
+<td><a href="cela.html">C.d.asociat CERNAU Laura</a></td>
+</tr>
+<tr align="center">
+<td><a href="chtu.html">C.d.asociat CHIFOR Tudor</a></td>
+<td><a href="cira.html">C.d.asociat CIBOTARU Radu</a></td>
+<td><a href="coro.html">C.d.asociat COROIAN Iulia</a></td>
+<td><a href="dadi.html">C.d.asociat DANCI Diana</a></td>
+</tr>
+<tr align="center">
+<td><a href="dima1.html">C.d.asociat DICU Madalina</a></td>
+<td><a href="dois.html">C.d.asociat DOMOKOS Istvan</a></td>
+<td><a href="fehe.html">C.d.asociat FEKETE Helga</a></td>
+<td><a href="grda.html">C.d.asociat GRIZA Daniel</a></td>
+</tr>
+<tr align="center">
+<td><a href="cila.html">C.d.asociat ILIESCU Larisa</a></td>
+<td><a href="iubo.html">C.d.asociat IUDEAN Bogdan</a></td>
+<td><a href="kadi.html">C.d.asociat KARAGIANNIS  Dimitri</a></td>
+<td><a href="keta.html">C.d.asociat KEPES Tamas</a></td>
+</tr>
+<tr align="center">
+<td><a href="klho.html">C.d.asociat KLUS Holger</a></td>
+<td><a href="kndo.html">C.d.asociat KNOLL Dominik</a></td>
+<td><a href="lual.html">C.d.asociat LUNGANA-Niculescu Alexandru</a></td>
+<td><a href="maca.html">C.d.asociat MARC Casian</a></td>
+</tr>
+<tr align="center">
+<td><a href="mast.html">C.d.asociat MATHE Stefan</a></td>
+<td><a href="main.html">C.d.asociat MAYER Ingrid</a></td>
+<td><a href="mica.html">C.d.asociat MIHU Cantemir</a></td>
+<td><a href="mocr.html">C.d.asociat MORARESCU Cristina</a></td>
+</tr>
+<tr align="center">
+<td><a href="omra.html">C.d.asociat OMETITA Radu</a></td>
+<td><a href="osol.html">C.d.asociat Oswald Oliver</a></td>
+<td><a href="pafl.html">C.d.asociat PATRULESCU Flavius</a></td>
+<td><a href="pial.html">C.d.asociat PIRVU Alexandru</a></td>
+</tr>
+<tr align="center">
+<td><a href="poan1.html">C.d.asociat POP Andrei</a></td>
+<td><a href="rero.html">C.d.asociat RETHI Roland</a></td>
+<td><a href="siro.html">C.d.asociat SIPOS-LASCU Roxana</a></td>
+<td><a href="sovi.html">C.d.asociat SOLEA Victor</a></td>
+</tr>
+<tr align="center">
+<td><a href="soau.html">C.d.asociat SOTROPA Aurelian</a></td>
+<td><a href="sumi1.html">C.d.asociat SUCEVEANU Mircea</a></td>
+<td><a href="zean.html">C.d.asociat SZEDERJESI-DRAGOMIR Andra</a></td>
+<td><a href="trdi1.html">C.d.asociat TRUTA Diana</a></td>
+</tr>
+<tr align="center">
+<td><a href="tuch.html">C.d.asociat TUREAN Christine</a></td>
+<td><a href="tual.html">C.d.asociat TURIAN Alexandra</a></td>
+<td><a href="urdi.html">C.d.asociat Urian Diana</a></td>
+<td><a href="zaca.html">C.d.asociat ZAMFIRESCU Carol</a></td>
+</tr>
+</tbody></table>
+</center>
+</body></html>
